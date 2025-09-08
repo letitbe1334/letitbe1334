@@ -2,7 +2,7 @@
     <img src="https://capsule-render.vercel.app/api?type=rounded&color=color=0:364a51,100:1c80ab&height=180&text=Deoh:%20Code%20Story%20💻&animation=blink&fontColor=ffffff&fontSize=60" />
 </div>
 <div style="text-align: left;"> 
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 나의 코딩 여정에 온 걸 환영합니다 😄 </h2>  
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 환영합니다 😄 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요, 풀스택 개발자 Deoh입니다.</li><br/></li>Java(Spring Boot)를 이용해 안정적인 백엔드 시스템을 구축해왔으며, 현재는 사용자 경험을 만드는 프론트엔드 개발에 더 많은 흥미를 느끼고 있어요.</li><br/></li>특히 Vue.js를 기반으로 다양한 서비스를 개발해왔으며, 최근에는 React와 Next.js를 활용한 최신 웹 개발 트렌드에 관심을 두고 학습하고 있어요. </div> 
 </div>
 <div style="text-align: left;">
@@ -50,8 +50,8 @@
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
 	<div align= "center">
-		<img src="https://github-readme-stats.vercel.app/api?username=letitbe1334&bg_color=180,fdfd18,00000000&title_color=000000&text_color=000000"/>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letitbe1334&layout=compact&bg_color=180,fdfd18,00000000&title_color=000000&text_color=000000"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=letitbe1334&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"/> 
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letitbe1334&layout=compact&bg_color=180,000000,00000000&title_color=ffffff&text_color=ffffff"/>
 	</div> 
 </div>
     
