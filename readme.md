@@ -8,9 +8,9 @@
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
     <div  align= "center"> 
-		<img src="https://img.shields.io/badge/Amazon S3-569A31?style=flat&logo=Amazon S3&logoColor=white">
-		<img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=Apache Tomcat&logoColor=white">
-		<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white">
+		<img src="https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazons3&logoColor=white">
+		<img src="https://img.shields.io/badge/Apache_Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white">
+		<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazonaws&logoColor=white">
 		<img src="https://img.shields.io/badge/Babel-F9DC3E?style=flat&logo=Babel&logoColor=white">
 		<img src="https://img.shields.io/badge/Eslint-4B32C3?style=flat&logo=Eslint&logoColor=white">
 		<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white">
@@ -46,17 +46,12 @@
 			<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:letitbe1334@gmail.com">
 		</a>
     </div> 
-    <div align= "center">
-		<a href="https://hits.seeyoufarm.com">
-			<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeokhyeong%2F&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false"/>
-		</a>
-    </div> 
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🏅 Stats </h2>
 	<div align= "center">
-		<img src="https://github-readme-stats.vercel.app/api?username=Deokhyeong&bg_color=180,fdfd18,00000000&title_color=000000&text_color=000000"/>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deokhyeong&layout=compact&bg_color=180,fdfd18,00000000&title_color=000000&text_color=000000"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=letitbe1334&bg_color=180,fdfd18,00000000&title_color=000000&text_color=000000"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=letitbe1334&layout=compact&bg_color=180,fdfd18,00000000&title_color=000000&text_color=000000"/>
 	</div> 
 </div>
     
