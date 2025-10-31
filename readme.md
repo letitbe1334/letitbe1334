@@ -3,7 +3,7 @@
 </div>
 <div style="text-align: left;"> 
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 환영합니다 😄 </h2>  
-    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요, 풀스택 개발자 Deoh입니다.</li><br/></li>Java(Spring Boot)를 이용해 안정적인 백엔드 시스템을 구축해왔으며, 현재는 사용자 경험을 만드는 프론트엔드 개발에 더 많은 흥미를 느끼고 있어요.</li><br/></li>특히 Vue.js를 기반으로 다양한 서비스를 개발해왔으며, 최근에는 React와 Next.js를 활용한 최신 웹 개발 트렌드에 관심을 두고 학습하고 있어요. </div> 
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #c9d1d9;"> 안녕하세요, 풀스택 개발자 Deoh입니다.</li><br/></li>Java(Spring Boot)를 이용해 안정적인 백엔드 시스템을 구축해왔으며, 현재는 사용자 경험을 만드는 프론트엔드 개발에 더 많은 흥미를 느끼고 있습니다.</li><br/></li>특히 Vue.js를 기반으로 다양한 서비스를 개발해왔으며, 최근에는 React와 Next.js를 활용한 최신 웹 개발 트렌드에 관심을 두고 학습하고 있습니다. </div> 
 </div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2> <br> 
